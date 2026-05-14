@@ -38,4 +38,5 @@ This project demonstrates the practical application of ML & NLP techniques in so
 
 ## Author
 **Shruti Srivastava**
+
 *srivastavashruti218@gmail.com*
