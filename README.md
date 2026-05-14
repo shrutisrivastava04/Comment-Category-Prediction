@@ -1,2 +1,2 @@
-# Movie-Review-Sentiment-Prediction
-Developed an NLP-based sentiment analysis model to classify movie reviews
+# Comment-Category-Prediction
+Developed an NLP-based text classification model to classify comment categories
